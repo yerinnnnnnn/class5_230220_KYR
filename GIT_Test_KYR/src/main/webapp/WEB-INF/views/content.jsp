@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a>생성</a>
+	<a>생성 내용 추가</a>
 </body>
 </html>
