@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Shared 디렉토리 삭제 후 변경 - 재변경
+	Shared 디렉토리 삭제 후 변경 - 재변경 - 최민진 바보
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
