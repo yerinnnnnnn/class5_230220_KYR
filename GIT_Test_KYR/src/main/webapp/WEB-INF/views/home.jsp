@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	GET 연동 테스트 - home.jsp 파일 변경함
+	Shared 디렉토리 삭제 후 변경
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
